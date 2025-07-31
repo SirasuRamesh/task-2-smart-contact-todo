@@ -35,4 +35,4 @@ Designed to demonstrate intermediate HTML, CSS, and JS skills — with a focus o
 
 1. **Clone or Download** this repository  
    ```bash
-  and open it.
+   git clone https://github.com/SirasuRamesh/task-2-smart-contact-todo.git
